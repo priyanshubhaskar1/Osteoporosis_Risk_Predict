@@ -1,1 +1,1 @@
-# .-Walmart-Sales-Data-Analysis-Using-MySQL
+# Osteoporosis_Risk_Predict
